@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "262814616052",
+    "project_id": "ambutech-d9a3a",
+    "storage_bucket": "ambutech-d9a3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262814616052:android:257551cfa04524abced1a1",
+        "android_client_info": {
+          "package_name": "com.example.ambulance_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262814616052-58rsskt3ccebv0af55ov5747v713mieg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwjV7dPwcsHje07Fk-5eWdLrceWoo1iII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262814616052-58rsskt3ccebv0af55ov5747v713mieg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
